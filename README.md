@@ -14,7 +14,7 @@ Learning and building projects with modern web technologies.
 <img src="https://img.shields.io/github/followers/nuriev11?label=Follow&style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/">
+<a href="https://www.linkedin.com/in/nurievbz">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 

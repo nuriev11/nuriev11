@@ -31,9 +31,7 @@ Learning and building projects with modern web technologies.
 ### ⚡ Technologies
 
 <p align="center">
-
-<img width="420" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,nextjs,typescript,git,github" />
-
+<img width="520" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,nextjs,typescript,git,github,sql,cs,cpp,python" />
 </p>
 
 ---
@@ -44,6 +42,6 @@ Learning and building projects with modern web technologies.
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=nuriev11&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuriev11&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuriev11&theme=tokyonight&hide_border=true&layout=compact" />
 
 </p>

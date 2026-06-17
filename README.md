@@ -31,7 +31,7 @@ Learning and building projects with modern web technologies.
 ### ⚡ Technologies
 
 <p align="center">
-<img width="520" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,nextjs,typescript,git,github,sql,cs,cpp,python" />
+<img width="520" src="https://skillicons.dev/icons?i=git,github,sql,cs,cpp,python" />
 </p>
 
 ---

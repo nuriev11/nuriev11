@@ -16,8 +16,6 @@ Here you'll find my projects, experiments, and contributions in different techno
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
-
 ## 📊 Statistics
 
 <p align="center">

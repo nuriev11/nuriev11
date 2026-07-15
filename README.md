@@ -22,7 +22,7 @@ Here you'll find my projects, experiments, and contributions in different techno
 
 <p align="center">
 
-[<img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nuriev11&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nuriev11&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nuriev11&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nuriev11&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nuriev11&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
